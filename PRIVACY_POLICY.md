@@ -39,7 +39,7 @@ Bot, aşağıdaki özellikler için Message Content Intent'i kullanır:
 
 Verileriniz şu durumlarda silinir:
 - Bot sunucudan atıldığında
-- `/destek-kaldir` komutu kullanıldığında
+- `/destek-kaldır` komutu kullanıldığında
 - Ticket kapatıldığında (sadece ticket mesajları)
 
 ## 📝 Veri Saklama
@@ -57,7 +57,7 @@ Verileriniz şu durumlarda silinir:
 ## 📫 İletişim
 
 Gizlilik politikası hakkında sorularınız için:
-- Destek sunucumuza katılın: [[Destek Sunucusu Linki]](https://discord.gg/eBeUTRpQyG)
+- Destek sunucumuza katılın: https://discord.gg/eBeUTRpQyG
 - Bot üzerinden `/yardım` komutunu kullanın
 
 ## 📅 Güncellemeler
